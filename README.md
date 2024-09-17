@@ -56,3 +56,7 @@ This project aims to analyze the U.S. housing market from January 2012 to June 2
 
 ## **Conclusion**
 Our group hypothesized that Covid-19 had drastically impacted the housing market by reshaping general market behavior towards home ownership in major metropolitan cities. Despite the numerous factors that may impact this market, we  narrowed down our parameters to analyze trends purely based on market changes. Based on our analysis, we saw the median price for homes in the US sharply rise between this period and saw a major uptick in sales volumes for counties outside of major metropolitan areas (though we do see states like Florida, California, and Texas experience rapid growth based on annual sales volume). We also noticed that several of the fastest growing markets post-covid are in counties outside of major cities such as Los Angeles, New York, Atlanta, etc. and are instead growing in less densely populated counties like Cleveland County, NC or Beckham County, OK. We concluded that Covid-19 did create a major impact to the US housing market and the change in behavior between buyers and regional markets are clearly marked with a shift towards non-urban areas post-Covid. Of course, we acknowledge that there are still several factors outside of our analysis that does not capture the entire picture of general population behavior in the wake of Covid-19, the new market developments seen in our data do show a indication of a paradigm shift in housing desirability and costs.
+
+**Widchy Joachim**
+*Data Analyst*
+ 
